@@ -1,2 +1,2 @@
 # glibetario
-My playground: https://mglibetario.github.io/glibetario/
+https://mglibetario.github.io/glibetario/
